@@ -26,11 +26,12 @@ request.interceptors.request.use(config => {
 
 结果在大多数页面都能正常显示
 
-![image-20231204154851900](Vant.assets/image-20231204154851900.png)
+
+![image-20231204154851900](assets/image-20231204154851900.png)
 
 但是在某些页面却会突然变成其他的样式(width会变小):
 
-![image-20231204154911157](Vant.assets/image-20231204154911157.png)
+![image-20231204154911157](assets/image-20231204154911157.png)
 
 后来发现,只有在存在van-popup组件的页面,会发生这种问题.
 
@@ -54,4 +55,4 @@ import 'vant/es/toast/style';
 
 可以让showLoadingToast和van-popup并存啦
 
-![image-20231204154934786](Vant.assets/image-20231204154934786.png)
+![image-20231204154934786](assets/image-20231204154934786.png)

@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
+}

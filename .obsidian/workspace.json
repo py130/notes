@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "652f218180eea85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e57bc523f826c32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33861d721ef56623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6725991f90f571bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随笔.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f36c1f28a11a2bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e67543b3571f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979fb5d5012cedd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a02716c6a729fe75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfe251810481adcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "e6d57a11be3400fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "623560f9b6173247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "029dd49c32769a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "随笔.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49465cd109a6d331",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "随笔.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "373bdbeaa57b4701",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "192f37a1499a8783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "随笔.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6725991f90f571bd",
+  "lastOpenFiles": [
+    "草稿/草稿.md",
+    "草稿/assets/Pasted image 20231212180524.png",
+    "草稿/assets/Pasted image 20231212180442.png",
+    "草稿/assets/Pasted image 20231212180207.png",
+    "计划.md",
+    "草稿/assets/Pasted image 20231212165740.png",
+    "草稿/assets/Pasted image 20231211101837.png",
+    "草稿/assets/Pasted image 20231211101825.png",
+    "项目笔记/新建文件夹",
+    "随笔.md",
+    "测试.md",
+    "学习笔记/李宏毅深度学习/李宏毅机器学习笔记.md",
+    "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
+    "项目笔记/202309-佛山电子证照/assets/1697427742376-14ec130d-79c9-4ad6-a35f-ebc153c3bd59.jpeg",
+    "项目笔记/202309-佛山电子证照/assets/1697427742376-14ec130d-79c9-4ad6-a35f-ebc153c3bd59-1701955784143-19.jpeg",
+    "项目笔记/202309-佛山电子证照/assets/1697184928898-2158d9c3-8a63-45ab-ac25-5a82d005313d.png",
+    "项目笔记/202309-佛山电子证照/assets/1697184928898-2158d9c3-8a63-45ab-ac25-5a82d005313d-1701955782761-17.png",
+    "项目笔记/202309-佛山电子证照/assets",
+    "踩坑笔记/粤治慧/粤治慧.md",
+    "项目笔记/202309-佛山电子证照",
+    "踩坑笔记/粤治慧/assets",
+    "踩坑笔记/CSS/CSS.md",
+    "踩坑笔记/粤治慧",
+    "踩坑笔记/JS/JS.md",
+    "踩坑笔记/CSS",
+    "踩坑笔记/Vue2/Vue2.md",
+    "踩坑笔记/JS",
+    "踩坑笔记/Vue3/Vue3.md",
+    "踩坑笔记/Vue3/assets",
+    "学习笔记/粤省事/粤省事.md",
+    "踩坑笔记/Vue3",
+    "学习笔记/粤省事/assets",
+    "踩坑笔记/Node/Node.md",
+    "学习笔记/小程序/小程序.md",
+    "踩坑笔记/Element-UI/Element-UI.md",
+    "学习笔记/Nginx/Nginx.md",
+    "学习笔记/Taro2/Taro2.md",
+    "学习笔记/李宏毅深度学习/李宏毅深度学习.md",
+    "学习笔记/算法/算法.md",
+    "踩坑笔记/Vue-Cli/Vue-Cli.md",
+    "刷题笔记.assets/image-20220825164526115.png.md",
+    "近期待办.md",
+    "note-前端.md",
+    "README.md",
+    "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md"
+  ]
+}
