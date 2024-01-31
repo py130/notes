@@ -20,7 +20,17 @@
             }
           },
           {
-            "id": "6725991f90f571bd",
+            "id": "8577f227cf14e3bf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "草稿/assets/Pasted image 20231206153553.png"
+              }
+            }
+          },
+          {
+            "id": "323e69621695cec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,25 +169,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6725991f90f571bd",
+  "active": "323e69621695cec0",
   "lastOpenFiles": [
-    "草稿/草稿.md",
-    "草稿/assets/Pasted image 20231212180524.png",
-    "草稿/assets/Pasted image 20231212180442.png",
-    "草稿/assets/Pasted image 20231212180207.png",
     "计划.md",
-    "草稿/assets/Pasted image 20231212165740.png",
-    "草稿/assets/Pasted image 20231211101837.png",
-    "草稿/assets/Pasted image 20231211101825.png",
-    "项目笔记/新建文件夹",
+    "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
+    "草稿/assets/Pasted image 20231206153553.png",
     "随笔.md",
-    "测试.md",
+    "草稿/assets/Pasted image 20231206153457.png",
+    "草稿/assets/Pasted image 20231206153008.png",
+    "草稿/assets/Pasted image 20231206103840.png",
+    "草稿/草稿.md",
+    "assets/Pasted image 20240131100200.png",
+    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142740.png",
+    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142654.png",
+    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142538.png",
+    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142249.png",
+    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142047.png",
+    "assets",
+    "未命名.md",
+    "学习笔记/算法/算法.md",
+    "学习笔记/小程序/小程序.md",
+    "项目笔记/202312-韶关PMO/assets",
     "学习笔记/李宏毅深度学习/李宏毅机器学习笔记.md",
+    "项目笔记/202312-韶关PMO",
+    "项目笔记/新建文件夹",
+    "测试.md",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
-    "项目笔记/202309-佛山电子证照/assets/1697427742376-14ec130d-79c9-4ad6-a35f-ebc153c3bd59.jpeg",
-    "项目笔记/202309-佛山电子证照/assets/1697427742376-14ec130d-79c9-4ad6-a35f-ebc153c3bd59-1701955784143-19.jpeg",
-    "项目笔记/202309-佛山电子证照/assets/1697184928898-2158d9c3-8a63-45ab-ac25-5a82d005313d.png",
-    "项目笔记/202309-佛山电子证照/assets/1697184928898-2158d9c3-8a63-45ab-ac25-5a82d005313d-1701955782761-17.png",
     "项目笔记/202309-佛山电子证照/assets",
     "踩坑笔记/粤治慧/粤治慧.md",
     "项目笔记/202309-佛山电子证照",
@@ -189,22 +206,15 @@
     "踩坑笔记/Vue2/Vue2.md",
     "踩坑笔记/JS",
     "踩坑笔记/Vue3/Vue3.md",
-    "踩坑笔记/Vue3/assets",
     "学习笔记/粤省事/粤省事.md",
-    "踩坑笔记/Vue3",
-    "学习笔记/粤省事/assets",
     "踩坑笔记/Node/Node.md",
-    "学习笔记/小程序/小程序.md",
     "踩坑笔记/Element-UI/Element-UI.md",
     "学习笔记/Nginx/Nginx.md",
     "学习笔记/Taro2/Taro2.md",
     "学习笔记/李宏毅深度学习/李宏毅深度学习.md",
-    "学习笔记/算法/算法.md",
     "踩坑笔记/Vue-Cli/Vue-Cli.md",
     "刷题笔记.assets/image-20220825164526115.png.md",
     "近期待办.md",
-    "note-前端.md",
-    "README.md",
-    "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md"
+    "note-前端.md"
   ]
 }
