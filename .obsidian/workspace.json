@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
+                "file": "1. 工作计划/工作计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
+                "file": "1. 工作计划/工作计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
+                "file": "1. 工作计划/工作计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md"
+                "file": "1. 工作计划/工作计划.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "7c78fd07885e127e",
   "lastOpenFiles": [
-    "1. 工作计划/工作计划.md",
+    "4. 系统学习/小程序/小程序.md",
     "2. 学习计划/学习计划.md",
+    "3. 思考随笔/思考随笔.md",
+    "1. 工作计划/工作计划.md",
+    "4. 系统学习/算法/算法.md",
     "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
     "5. 踩坑笔记/Vue2/Vue2.md",
-    "3. 思考随笔/思考随笔.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
     "计划.md",
     "1. 工作计划",
@@ -164,7 +166,6 @@
     "4. 系统学习/Vue3/Vue3.md",
     "4. 系统学习/Vite",
     "4. 系统学习/Vue3",
-    "4. 系统学习/算法/算法.md",
     "精妙思考/Vue-Cli/Vue-Cli.md",
     "精妙思考/Vant/Vant.md",
     "4. 系统学习/JS/JS.md",
@@ -178,7 +179,6 @@
     "4. 系统学习/Taro2/Taro2.md",
     "4. 系统学习/Nginx/Nginx.md",
     "4. 系统学习/粤省事/粤省事.md",
-    "4. 系统学习/小程序/小程序.md",
     "精妙思考/Node/assets/1692781029077-7dd8e1e2-8eda-4b68-b93f-982ae23e2380.png",
     "精妙思考/Node/assets/1692780951348-19b398cb-f4af-46b9-bd56-b1c177ae611e.png",
     "精妙思考/Node/assets/1692780650009-2c85661d-937d-4ba1-8c1d-23a0e0e5c45d.png",
