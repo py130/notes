@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e57bc523f826c32d",
+        "id": "7cda4103b60d8200",
         "type": "tabs",
         "children": [
           {
-            "id": "33861d721ef56623",
+            "id": "7c78fd07885e127e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8577f227cf14e3bf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "草稿/assets/Pasted image 20231206153553.png"
-              }
-            }
-          },
-          {
-            "id": "323e69621695cec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随笔.md",
+                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 270.5026054382324
   },
   "right": {
     "id": "e6d57a11be3400fc",
@@ -108,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随笔.md",
-                "collapseAll": false,
+                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随笔.md",
+                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随笔.md"
+                "file": "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md"
               }
             }
           }
@@ -157,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,52 +146,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "323e69621695cec0",
+  "active": "7c78fd07885e127e",
   "lastOpenFiles": [
-    "计划.md",
+    "1. 工作计划/工作计划.md",
+    "2. 学习计划/学习计划.md",
+    "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
+    "5. 踩坑笔记/Vue2/Vue2.md",
+    "3. 思考随笔/思考随笔.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
-    "草稿/assets/Pasted image 20231206153553.png",
-    "随笔.md",
-    "草稿/assets/Pasted image 20231206153457.png",
-    "草稿/assets/Pasted image 20231206153008.png",
-    "草稿/assets/Pasted image 20231206103840.png",
-    "草稿/草稿.md",
-    "assets/Pasted image 20240131100200.png",
-    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142740.png",
-    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142654.png",
-    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142538.png",
-    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142249.png",
-    "项目笔记/202312-韶关PMO/assets/Pasted image 20240125142047.png",
-    "assets",
-    "未命名.md",
-    "学习笔记/算法/算法.md",
-    "学习笔记/小程序/小程序.md",
-    "项目笔记/202312-韶关PMO/assets",
-    "学习笔记/李宏毅深度学习/李宏毅机器学习笔记.md",
-    "项目笔记/202312-韶关PMO",
-    "项目笔记/新建文件夹",
-    "测试.md",
+    "计划.md",
+    "1. 工作计划",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
-    "项目笔记/202309-佛山电子证照/assets",
+    "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
+    "2. 学习计划",
+    "3. 思考随笔",
+    "4. 系统学习/Vite/Vite.md",
+    "4. 系统学习/Vue3/Vue3.md",
+    "4. 系统学习/Vite",
+    "4. 系统学习/Vue3",
+    "4. 系统学习/算法/算法.md",
+    "精妙思考/Vue-Cli/Vue-Cli.md",
+    "精妙思考/Vant/Vant.md",
+    "4. 系统学习/JS/JS.md",
+    "精妙思考/Node/Node.md",
+    "精妙思考/JS/JS.md",
+    "4. 系统学习/JS",
+    "精妙思考/Element-UI/Element-UI.md",
+    "精妙思考/CSS/CSS.md",
+    "草稿/草稿.md",
     "踩坑笔记/粤治慧/粤治慧.md",
-    "项目笔记/202309-佛山电子证照",
-    "踩坑笔记/粤治慧/assets",
-    "踩坑笔记/CSS/CSS.md",
-    "踩坑笔记/粤治慧",
-    "踩坑笔记/JS/JS.md",
-    "踩坑笔记/CSS",
-    "踩坑笔记/Vue2/Vue2.md",
-    "踩坑笔记/JS",
-    "踩坑笔记/Vue3/Vue3.md",
-    "学习笔记/粤省事/粤省事.md",
-    "踩坑笔记/Node/Node.md",
-    "踩坑笔记/Element-UI/Element-UI.md",
-    "学习笔记/Nginx/Nginx.md",
-    "学习笔记/Taro2/Taro2.md",
-    "学习笔记/李宏毅深度学习/李宏毅深度学习.md",
-    "踩坑笔记/Vue-Cli/Vue-Cli.md",
-    "刷题笔记.assets/image-20220825164526115.png.md",
-    "近期待办.md",
-    "note-前端.md"
+    "4. 系统学习/Taro2/Taro2.md",
+    "4. 系统学习/Nginx/Nginx.md",
+    "4. 系统学习/粤省事/粤省事.md",
+    "4. 系统学习/小程序/小程序.md",
+    "精妙思考/Node/assets/1692781029077-7dd8e1e2-8eda-4b68-b93f-982ae23e2380.png",
+    "精妙思考/Node/assets/1692780951348-19b398cb-f4af-46b9-bd56-b1c177ae611e.png",
+    "精妙思考/Node/assets/1692780650009-2c85661d-937d-4ba1-8c1d-23a0e0e5c45d.png",
+    "踩坑笔记/粤治慧/assets/1693962492026-5b92f071-f403-41f9-8842-588afb1c202e.png",
+    "踩坑笔记/粤治慧/assets/1693962618692-27c2a54f-74e8-4213-9be9-327a6edfb459.png",
+    "踩坑笔记/粤治慧/assets/1693964286271-f42e73d4-e2c6-4060-8c36-63b296c11988.png",
+    "踩坑笔记/粤治慧/assets/1693961704966-b96d8395-cac4-446c-aae4-c303e6c393d6.png",
+    "踩坑笔记/粤治慧/assets/1693962045554-29515966-3ad3-427b-99f1-f535b007e7bb.png",
+    "踩坑笔记/粤治慧/assets/1693962015708-8891ecf4-145b-4dde-9f90-495a4050cf3b.png",
+    "踩坑笔记/粤治慧/assets/1693961742761-80031440-0a17-4294-ab1a-159cd9077589.png",
+    "5. 踩坑笔记/Vue3/Vue3.md",
+    "assets",
+    "项目笔记/202312-韶关PMO/assets",
+    "项目笔记/202312-韶关PMO",
+    "项目笔记/新建文件夹"
   ]
 }
