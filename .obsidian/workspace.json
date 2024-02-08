@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c78fd07885e127e",
+            "id": "28bce1928dabe12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 工作计划/工作计划.md",
+                "file": "4. 系统学习/JS/JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7186b1cfe46068e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 思考随笔/思考随笔.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5026054382324
+    "width": 227.50260543823242
   },
   "right": {
     "id": "e6d57a11be3400fc",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 工作计划/工作计划.md",
+                "file": "4. 系统学习/JS/JS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 工作计划/工作计划.md",
+                "file": "4. 系统学习/JS/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 工作计划/工作计划.md"
+                "file": "4. 系统学习/JS/JS.md"
               }
             }
           }
@@ -146,29 +158,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c78fd07885e127e",
+  "active": "28bce1928dabe12b",
   "lastOpenFiles": [
-    "4. 系统学习/小程序/小程序.md",
-    "2. 学习计划/学习计划.md",
     "3. 思考随笔/思考随笔.md",
+    "4. 系统学习/JS/JS.md",
+    "4. 系统学习/Vue3/Vue3.md",
+    "4. 系统学习/Vite/Vite.md",
+    "4. 系统学习/Taro2/Taro2.md",
+    "4. 系统学习/Nginx/Nginx.md",
+    "4. 系统学习/粤省事/粤省事.md",
+    "2. 个人发展计划/个人发展计划.md",
+    "4. 系统学习/粤省事/assets/1700039738516-e437044e-5710-41e3-9b9e-26ce6b1061cd.png",
+    "4. 系统学习/粤省事/assets/1700038772357-32952f51-f9f5-4e82-889c-d5f937d07a8c.png",
+    "4. 系统学习/粤省事/assets/1700036606450-e74780c4-f6a6-4b48-83aa-6a8deb1353d0.png",
+    "4. 系统学习/粤省事/assets/1700035498271-c7276860-246d-4dda-819e-efb40a69a810.png",
+    "4. 系统学习/粤省事/assets/1700035389161-134cc172-3a3d-4b37-8ad2-82aa65c3ad21.png",
+    "4. 系统学习/粤省事/assets/1700035380895-e23178c2-2a6e-48f8-b3d1-c1e9b6b074e2.png",
+    "4. 系统学习/粤省事/assets/1699947819125-84bb2e5e-a9b4-4c37-baaf-1a294d4da1e3.png",
+    "4. 系统学习/粤省事/assets/1699948705501-47616bb5-246f-481c-9154-2db2176ff95e.png",
+    "4. 系统学习/小程序/小程序.md",
     "1. 工作计划/工作计划.md",
+    "5. 踩坑笔记/Vscode/Vscode.md",
+    "5. 踩坑笔记/Vue2/Vue2.md",
+    "5. 踩坑笔记/Vscode",
     "4. 系统学习/算法/算法.md",
     "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
-    "5. 踩坑笔记/Vue2/Vue2.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
     "计划.md",
     "1. 工作计划",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
     "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
-    "2. 学习计划",
+    "2. 个人发展计划",
     "3. 思考随笔",
-    "4. 系统学习/Vite/Vite.md",
-    "4. 系统学习/Vue3/Vue3.md",
     "4. 系统学习/Vite",
     "4. 系统学习/Vue3",
     "精妙思考/Vue-Cli/Vue-Cli.md",
     "精妙思考/Vant/Vant.md",
-    "4. 系统学习/JS/JS.md",
     "精妙思考/Node/Node.md",
     "精妙思考/JS/JS.md",
     "4. 系统学习/JS",
@@ -176,23 +201,10 @@
     "精妙思考/CSS/CSS.md",
     "草稿/草稿.md",
     "踩坑笔记/粤治慧/粤治慧.md",
-    "4. 系统学习/Taro2/Taro2.md",
-    "4. 系统学习/Nginx/Nginx.md",
-    "4. 系统学习/粤省事/粤省事.md",
     "精妙思考/Node/assets/1692781029077-7dd8e1e2-8eda-4b68-b93f-982ae23e2380.png",
     "精妙思考/Node/assets/1692780951348-19b398cb-f4af-46b9-bd56-b1c177ae611e.png",
-    "精妙思考/Node/assets/1692780650009-2c85661d-937d-4ba1-8c1d-23a0e0e5c45d.png",
-    "踩坑笔记/粤治慧/assets/1693962492026-5b92f071-f403-41f9-8842-588afb1c202e.png",
-    "踩坑笔记/粤治慧/assets/1693962618692-27c2a54f-74e8-4213-9be9-327a6edfb459.png",
-    "踩坑笔记/粤治慧/assets/1693964286271-f42e73d4-e2c6-4060-8c36-63b296c11988.png",
-    "踩坑笔记/粤治慧/assets/1693961704966-b96d8395-cac4-446c-aae4-c303e6c393d6.png",
-    "踩坑笔记/粤治慧/assets/1693962045554-29515966-3ad3-427b-99f1-f535b007e7bb.png",
-    "踩坑笔记/粤治慧/assets/1693962015708-8891ecf4-145b-4dde-9f90-495a4050cf3b.png",
-    "踩坑笔记/粤治慧/assets/1693961742761-80031440-0a17-4294-ab1a-159cd9077589.png",
-    "5. 踩坑笔记/Vue3/Vue3.md",
     "assets",
     "项目笔记/202312-韶关PMO/assets",
-    "项目笔记/202312-韶关PMO",
-    "项目笔记/新建文件夹"
+    "项目笔记/202312-韶关PMO"
   ]
 }
