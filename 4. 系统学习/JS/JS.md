@@ -425,7 +425,18 @@ function throttle(func, delay) {
     return func.apply(this, args);  
   };  
 }
+
+const test = throttle((a, b) => { console.log(a + b) }, 4000)
+
+test(4, 5) // 9
+
+... 4秒内
+test(4, 5) // 
+
+... 4秒后
+test(4, 5) // 9
 ```
+
 
 ### apply
 
