@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
+                "file": "1. 工作计划/工作计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945
+    "width": 200
   },
   "right": {
     "id": "e6d57a11be3400fc",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
+                "file": "1. 工作计划/工作计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
+                "file": "1. 工作计划/工作计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目笔记/202312-韶关PMO/202312-韶关PMO.md"
+                "file": "1. 工作计划/工作计划.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +149,26 @@
   },
   "active": "257d54eb0bc35e62",
   "lastOpenFiles": [
+    "2. 思考随笔/思考随笔.md",
+    "1. 工作计划/工作计划.md",
+    "4. 踩坑笔记/踩坑笔记.md",
+    "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
+    "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
+    "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
+    "2. 个人发展计划/个人发展计划.md",
+    "5. 踩坑笔记/Vue2/Vue2.md",
+    "5. 踩坑笔记/Vscode/Vscode.md",
+    "5. 踩坑笔记/Vue3/Vue3.md",
+    "5. 踩坑笔记/Vant/Vant.md",
+    "5. 踩坑笔记/JS/JS.md",
+    "3. 系统学习/粤省事/粤省事.md",
+    "3. 系统学习/Vue-cli/Vue-cli.md",
+    "3. 系统学习/Vue3/Vue3.md",
+    "3. 系统学习/JS/JS.md",
+    "5. 踩坑笔记/Vant",
+    "5. 踩坑笔记/JS",
     "deleteUnusedImg.py",
     "main.py",
-    "4. 系统学习/JS/JS.md",
     "4. 系统学习/JS/image 20240221172300022.png",
     "assets/image.md",
     "assets",
@@ -165,34 +183,17 @@
     "4. 系统学习/JS/assets/a b-1708506933532-10.png",
     "4. 系统学习/JS/assets/a b-1708506920459-7.png",
     "4. 系统学习/JS/assets",
-    "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
-    "5. 踩坑笔记/Vue2/Vue2.md",
-    "4. 系统学习/粤省事/粤省事.md",
-    "4. 系统学习/粤省事/main.py",
-    "5. 踩坑笔记/Vue3/Vue3.md",
-    "4. 系统学习/Nginx/Nginx.md",
-    "1. 工作计划/工作计划.md",
+    "3. 系统学习/粤省事/main.py",
+    "3. 系统学习/Nginx/Nginx.md",
     "5. 踩坑笔记/Vue3/main.py",
     "5. 踩坑笔记/Vue2/main.py",
-    "4. 系统学习/Taro2/Taro2.md",
+    "3. 系统学习/Taro2/Taro2.md",
     "4. 系统学习/Nginx/main.py",
-    "5. 踩坑笔记/Vscode/Vscode.md",
-    "4. 系统学习/Vue3/Vue3.md",
-    "4. 系统学习/Vue-cli/Vue-cli.md",
-    "4. 系统学习/Vite/Vite.md",
-    "4. 系统学习/Vue-cli",
-    "3. 思考随笔/思考随笔.md",
-    "2. 个人发展计划/个人发展计划.md",
+    "3. 系统学习/Vite/Vite.md",
     "4. 系统学习/小程序/小程序.md",
-    "5. 踩坑笔记/Vscode",
     "4. 系统学习/算法/算法.md",
     "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md",
     "计划.md",
-    "1. 工作计划",
-    "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
-    "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
-    "精妙思考/Vue-Cli/Vue-Cli.md",
-    "精妙思考/Vant/Vant.md",
-    "精妙思考/Node/Node.md"
+    "精妙思考/Vue-Cli/Vue-Cli.md"
   ]
 }
