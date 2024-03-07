@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "257d54eb0bc35e62",
+  "active": "979fb5d5012cedd4",
   "lastOpenFiles": [
+    "deleteUnusedImg.py~",
     "2. 思考笔记.md",
     "1. 工作计划.md",
     "4. 踩坑笔记.md",
@@ -192,7 +193,6 @@
     "4. 系统学习/JS/assets",
     "3. 系统学习/粤省事/main.py",
     "4. 系统学习/小程序/小程序.md",
-    "4. 系统学习/算法/算法.md",
-    "4. 系统学习/李宏毅深度学习/李宏毅深度学习.md"
+    "4. 系统学习/算法/算法.md"
   ]
 }
