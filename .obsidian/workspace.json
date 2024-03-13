@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "257d54eb0bc35e62",
+            "id": "ade95063e337457e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 工作计划.md",
+                "file": "4. 踩坑笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 工作计划.md",
+                "file": "4. 踩坑笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 工作计划.md",
+                "file": "4. 踩坑笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 工作计划.md"
+                "file": "4. 踩坑笔记.md"
               }
             }
           }
@@ -146,13 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "979fb5d5012cedd4",
+  "active": "ade95063e337457e",
   "lastOpenFiles": [
-    "deleteUnusedImg.py~",
-    "2. 思考笔记.md",
+    "assets/Pasted image 20240313083905.png",
     "1. 工作计划.md",
-    "4. 踩坑笔记.md",
+    "2. 思考笔记.md",
     "3. 系统学习.md",
+    "4. 踩坑笔记.md",
+    "assets/yxq-2.png",
+    "assets/yxq-3.png",
+    "deleteUnusedImg.py~",
+    "assets/Pasted image 20240307192455.png",
+    "assets/yxq-0.png",
+    "assets/yxq-1.png",
+    "assets/Pasted image 20240307094830.png",
+    "assets/image-20240307094623153.png",
     "项目笔记/202312-韶关PMO/未命名.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
@@ -182,16 +190,8 @@
     "4. 系统学习/JS/image 20240221172300022.png",
     "assets/image.md",
     "assets",
-    "4. 系统学习/JS/assets/image 20240221172300022.png",
-    "4. 系统学习/JS/assets/image-20240221172300022.png",
-    "4. 系统学习/JS/assets/a b.png",
     "assets/a.md",
-    "4. 系统学习/JS/assets/a b-1708507304698-2.png",
-    "4. 系统学习/JS/assets/a b-1708507114724-17.png",
-    "4. 系统学习/JS/a b.png",
-    "4. 系统学习/JS/c%20d.png",
     "4. 系统学习/JS/assets",
-    "3. 系统学习/粤省事/main.py",
     "4. 系统学习/小程序/小程序.md",
     "4. 系统学习/算法/算法.md"
   ]
