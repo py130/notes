@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a579821bb99aea",
+        "id": "69b87966b5534709",
         "type": "tabs",
         "children": [
           {
-            "id": "ade95063e337457e",
+            "id": "1fb082d7be022bb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.51103591918945
   },
   "right": {
     "id": "e6d57a11be3400fc",
@@ -146,35 +146,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ade95063e337457e",
+  "active": "1fb082d7be022bb2",
   "lastOpenFiles": [
-    "assets/Pasted image 20240313083905.png",
     "1. 工作计划.md",
     "2. 思考笔记.md",
+    "assets/Pasted image 20240313091322.png",
     "3. 系统学习.md",
     "4. 踩坑笔记.md",
-    "assets/yxq-2.png",
-    "assets/yxq-3.png",
+    "4. 踩坑笔记.md.baiduyun.uploading.cfg",
+    "2. 思考笔记.md.baiduyun.uploading.cfg",
+    "1. 工作计划.md.baiduyun.uploading.cfg",
+    "3. 系统学习.assets/Pasted image 20240313091343.png",
+    "3. 系统学习.assets/Pasted image 20240313091322.png",
+    "3. 系统学习.assets/企业微信截图_17091980582517.png",
+    "3. 系统学习.assets/测试.pdf",
     "deleteUnusedImg.py~",
-    "assets/Pasted image 20240307192455.png",
-    "assets/yxq-0.png",
-    "assets/yxq-1.png",
-    "assets/Pasted image 20240307094830.png",
-    "assets/image-20240307094623153.png",
+    "3..md",
+    "3. 系统学习.md~",
+    "3. 系统学习.assets",
+    "3.系统学习.assets/Pasted image 20240313091343.png",
+    "3.系统学习.assets/Pasted image 20240313091322.png",
+    "3.系统学习.assets/企业微信截图_17091980582517.png",
+    "3.系统学习.assets/测试.pdf",
+    "3.系统学习.assets",
+    "assets/企业微信截图_17091980582517.png",
+    "assets/测试.pdf",
+    "assets/Pasted image 20240313091343.png",
+    "assets/Pasted image 20240313083905.png",
     "项目笔记/202312-韶关PMO/未命名.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
     "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
-    "assets/1694935891326-c35d68f1-5879-40c6-844c-b6bd9600bc6c.png",
     "3. 系统学习/Vue3/Vue3.md",
     "3. 系统学习/Vue-cli/Vue-cli.md",
     "3. 系统学习/Vite/Vite.md",
     "3. 系统学习/Taro2/Taro2.md",
     "3. 系统学习/粤省事/粤省事.md",
-    "assets",
-    "4. 踩坑笔记/新建文件夹",
-    "3. 系统学习/Nginx/assets/1694935891326-c35d68f1-5879-40c6-844c-b6bd9600bc6c.png",
-    "3. 系统学习/assets",
     "3. 系统学习/Nginx/Nginx.md",
     "3. 系统学习/JS/JS.md",
     "2. 个人发展计划/个人发展计划.md",
@@ -183,16 +190,8 @@
     "5. 踩坑笔记/Vue3/Vue3.md",
     "5. 踩坑笔记/Vant/Vant.md",
     "5. 踩坑笔记/JS/JS.md",
-    "5. 踩坑笔记/Vant",
-    "5. 踩坑笔记/JS",
-    "deleteUnusedImg.py",
-    "main.py",
-    "4. 系统学习/JS/image 20240221172300022.png",
     "assets/image.md",
-    "assets",
     "assets/a.md",
-    "4. 系统学习/JS/assets",
-    "4. 系统学习/小程序/小程序.md",
-    "4. 系统学习/算法/算法.md"
+    "4. 系统学习/小程序/小程序.md"
   ]
 }
