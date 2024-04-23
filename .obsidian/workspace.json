@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc79f3fd32429f68",
+            "id": "37cc9212f1173f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc79f3fd32429f68",
+  "active": "37cc9212f1173f48",
   "lastOpenFiles": [
-    "2. 思考笔记.md",
+    "5. 学习计划.md",
     "1. 工作计划.md",
-    "5. 自学计划.md",
+    "2. 思考笔记.md",
     "3. 系统学习.md",
     "4. 踩坑笔记.md",
     "5. 学习.md",
