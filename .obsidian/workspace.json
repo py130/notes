@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "aa5812d4b2fdb423",
+            "id": "d32b53698ec281e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb4fa436b04472d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 其他计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. 思考笔记.md",
+                "file": "1. 工作计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. 思考笔记.md",
+                "file": "1. 工作计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. 思考笔记.md"
+                "file": "1. 工作计划.md"
               }
             }
           }
@@ -160,16 +171,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa5812d4b2fdb423",
+  "active": "cff367ae970140e7",
   "lastOpenFiles": [
-    "1. 工作计划.md",
     "2. 思考笔记.md",
-    "未命名.md",
+    "3. 其他计划.md",
+    "1. 工作计划.md",
+    "未命名",
+    "5. 其他.md",
+    "4. 踩坑笔记.md",
+    "3. 系统学习.md",
     "assets/Pasted image 20240716090913.png",
     "assets/Pasted image 20240716090906.png",
     "assets/Pasted image 20240716090819.png",
     "草稿",
-    "5. 其他.md",
     "assets/video(4).mp4",
     "vite分享/vite分享.md",
     "vite分享/assets/video(4).mp4",
@@ -177,17 +191,14 @@
     "vite分享",
     "assets/Pasted image 20240515154102.png",
     "vite",
-    "4. 踩坑笔记.md",
     "assets/Pasted image 20240618112258.png",
     "assets/Pasted image 20240618102842.png",
-    "3. 系统学习.md",
     "assets/Pasted image 20240515154103.png",
     "5. 学习.md",
     "assets/~$pmo测试材料vx4（市政数、区县政数-公共项目）.xlsx",
     "assets/pmo测试材料vx4（市政数、区县政数-公共项目）.xlsx",
     "assets/Pasted image 20240313091322.png",
     "4. 踩坑笔记.md.baiduyun.uploading.cfg",
-    "2. 思考笔记.md.baiduyun.uploading.cfg",
     "3. 系统学习.assets/Pasted image 20240313091343.png",
     "3. 系统学习.assets/Pasted image 20240313091322.png",
     "3..md",
