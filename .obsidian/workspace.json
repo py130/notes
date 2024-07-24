@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. 工作计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d32b53698ec281e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 思考笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb4fa436b04472d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 其他计划.md",
+                "file": "0724-UI整体调整.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. 工作计划.md",
+                "file": "0724-UI整体调整.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. 工作计划.md",
+                "file": "0724-UI整体调整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 工作计划.md"
+                "file": "0724-UI整体调整.md"
               }
             }
           }
@@ -171,36 +147,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cff367ae970140e7",
+  "active": "979fb5d5012cedd4",
   "lastOpenFiles": [
+    "未命名.md",
+    "0724-UI整体调整.md",
+    "1. 工作计划.md",
+    "assets/Pasted image 20240724113357.png",
+    "assets/Pasted image 20240724113110.png",
+    "assets/Pasted image 20240724113028.png",
+    "assets/Pasted image 20240724113007.png",
+    "assets/Pasted image 20240724112435.png",
+    "assets/Pasted image 20240724112410.png",
+    "assets/Pasted image 20240724112344.png",
+    "assets/Pasted image 20240724112254.png",
+    "assets/Pasted image 20240724112202.png",
+    "assets/Pasted image 20240724112016.png",
     "2. 思考笔记.md",
     "3. 其他计划.md",
-    "1. 工作计划.md",
     "未命名",
     "5. 其他.md",
     "4. 踩坑笔记.md",
     "3. 系统学习.md",
-    "assets/Pasted image 20240716090913.png",
-    "assets/Pasted image 20240716090906.png",
-    "assets/Pasted image 20240716090819.png",
     "草稿",
     "assets/video(4).mp4",
     "vite分享/vite分享.md",
     "vite分享/assets/video(4).mp4",
     "vite分享/assets",
     "vite分享",
-    "assets/Pasted image 20240515154102.png",
     "vite",
-    "assets/Pasted image 20240618112258.png",
-    "assets/Pasted image 20240618102842.png",
-    "assets/Pasted image 20240515154103.png",
     "5. 学习.md",
     "assets/~$pmo测试材料vx4（市政数、区县政数-公共项目）.xlsx",
     "assets/pmo测试材料vx4（市政数、区县政数-公共项目）.xlsx",
-    "assets/Pasted image 20240313091322.png",
     "4. 踩坑笔记.md.baiduyun.uploading.cfg",
-    "3. 系统学习.assets/Pasted image 20240313091343.png",
-    "3. 系统学习.assets/Pasted image 20240313091322.png",
     "3..md",
     "项目笔记/202312-韶关PMO/未命名.md",
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
@@ -216,7 +194,6 @@
     "2. 个人发展计划/个人发展计划.md",
     "5. 踩坑笔记/Vue2/Vue2.md",
     "5. 踩坑笔记/Vscode/Vscode.md",
-    "5. 踩坑笔记/Vue3/Vue3.md",
-    "5. 踩坑笔记/Vant/Vant.md"
+    "5. 踩坑笔记/Vue3/Vue3.md"
   ]
 }
