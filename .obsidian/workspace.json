@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afac57cb2c9bcdc6",
+        "id": "c73440cf92a8513d",
         "type": "tabs",
         "children": [
           {
-            "id": "cff367ae970140e7",
+            "id": "0cd97c6bcc6951e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 思考笔记.md",
+                "file": "1. 工作TODO.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1d959abbb476d1ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 思考笔记.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1. 工作TODO"
             }
           }
         ]
@@ -50,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -74,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. 思考笔记.md",
+                "file": "3. 每日工作（工时）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "3. 每日工作（工时） 的反向链接列表"
             }
           },
           {
@@ -114,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. 思考笔记.md",
+                "file": "3. 每日工作（工时）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "3. 每日工作（工时） 的出链列表"
             }
           },
           {
@@ -128,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -137,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. 思考笔记.md"
-              }
+                "file": "1. 工作TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1. 工作TODO 的大纲"
             }
           }
         ],
@@ -146,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,24 +166,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cff367ae970140e7",
+  "active": "0cd97c6bcc6951e4",
   "lastOpenFiles": [
+    "getSheetByLibraryId libraryId=877.md",
+    "1. 工作TODO.md",
+    "3. 每日工作（工时）.md",
+    "揭阳赋码平台分支和入口对应关系.md",
+    "2. thinking.md",
+    "assets/Pasted image 20240727110615.png",
+    "assets/Pasted image 20250303115151.png",
+    "assets/Pasted image 20241107154632.png",
+    "assets/Pasted image 20241107154525.png",
+    "assets/企业微信截图_17308554668657.png",
+    "assets/企业微信截图_17308554239520.png",
+    "梳理粤政易接入前端所需改造工作.md",
+    "身份证.md",
+    "常用命令.md",
+    "0. 前端自学笔记.md",
+    "标签.md",
+    "分享文字.md",
+    "未命名",
+    "0. 长期计划.md",
     "3. 其他计划.md",
-    "2. 思考笔记.md",
-    "1. 工作计划.md",
     "0724-UI整体调整.md",
     "assets/Pasted image 20240725093926.png",
-    "未命名.md",
     "assets/Pasted image 20240724113357.png",
     "assets/Pasted image 20240724113110.png",
     "assets/Pasted image 20240724113028.png",
-    "assets/Pasted image 20240724113007.png",
-    "assets/Pasted image 20240724112435.png",
-    "assets/Pasted image 20240724112410.png",
-    "assets/Pasted image 20240724112344.png",
-    "assets/Pasted image 20240724112254.png",
-    "assets/Pasted image 20240724112202.png",
-    "未命名",
     "5. 其他.md",
     "4. 踩坑笔记.md",
     "3. 系统学习.md",
@@ -196,15 +212,6 @@
     "项目笔记/202312-韶关PMO/202312-韶关PMO.md",
     "项目笔记/202309-佛山电子证照/202309-佛山电子证照.md",
     "项目笔记/202204-主动防御分析平台/202204-主动防御分析平台.md",
-    "3. 系统学习/Vue3/Vue3.md",
-    "3. 系统学习/Vue-cli/Vue-cli.md",
-    "3. 系统学习/Vite/Vite.md",
-    "3. 系统学习/Taro2/Taro2.md",
-    "3. 系统学习/粤省事/粤省事.md",
-    "3. 系统学习/Nginx/Nginx.md",
-    "3. 系统学习/JS/JS.md",
-    "2. 个人发展计划/个人发展计划.md",
-    "5. 踩坑笔记/Vue2/Vue2.md",
-    "5. 踩坑笔记/Vscode/Vscode.md"
+    "3. 系统学习/Vue3/Vue3.md"
   ]
 }
